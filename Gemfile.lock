@@ -218,7 +218,7 @@ DEPENDENCIES
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
   guard (~> 2.14, >= 2.14.2)
-  guard-livereload (~> 2.5, >= 2.5.2)
+  guard-livereload (~> 2.5)
   jbuilder (~> 2.5)
   puma (~> 3.7)
   rails (~> 5.1.6)
