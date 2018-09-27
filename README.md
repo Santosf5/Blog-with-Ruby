@@ -1,24 +1,30 @@
-# README
+# Blog with Ruby on rails0.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Create post
 
-* Ruby version
 
-* System dependencies
+![Alt Text](https://i.gyazo.com/d0e1364d6c0534aa8c49af8e4bf951b7.gif)
 
-* Configuration
 
-* Database creation
+* Comments post
 
-* Database initialization
 
-* How to run the test suite
+![Alt Text](https://i.gyazo.com/8420158dde5a188616609aca7dc62e68.gif)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+* Delete Comment
+
+
+![Alt Text](https://i.gyazo.com/c4027746a3fef15e4d258eecba3b2373.gif)
+
+
+
+* Delete post
+
+
+![Alt Text](https://i.gyazo.com/33f4611fcb4b848cc4cc5a07d3964d41.gif)
+
+
+## Styles with Bulma.
